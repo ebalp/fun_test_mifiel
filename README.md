@@ -13,6 +13,3 @@ Finished after 0.014538 Seconds
 PoW Hash: 0004b5ec0e58569b916cd0e55b1253e2da19e8cf4d291108f8146c0ad5bd3810
 Nonce used: 4174
 
-
-
----
