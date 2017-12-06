@@ -5,7 +5,7 @@ hashlib
 
 With Python3 installed just run in the command line:
 
-python3 pow.py "Hello, world\!" 3
+python3 pow.py "Hello, world\\!" 3
 
 Expected output:
 
